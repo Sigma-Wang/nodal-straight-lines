@@ -1,0 +1,389 @@
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCCF527  __sched_yield         Unknown  Unknown
+libmpi.so.12       00002B59E1E23CA3  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B59E1F8A1E0  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B59E1DE2C78  Unknown               Unknown  Unknown
+libmpi.so.12       00002B59E1DE8006  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00002B59E1999FF1  mpi_allreduce_        Unknown  Unknown
+vasp_ncl           000000000041BFDF  Unknown               Unknown  Unknown
+vasp_ncl           000000000057150D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000619E6D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33C4F  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCE53C9  syscall               Unknown  Unknown
+libmpi.so.12.0     00002B709A8CEBC3  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B709A8CDBF0  Unknown               Unknown  Unknown
+libmpi.so.12       00002B709A69913D  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B709AA47302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B709A7F40B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002B709A6652D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002B709A20FB21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138EF1F  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCCF527  __sched_yield         Unknown  Unknown
+libmpi.so.12       00002AB5285DDCA3  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AB5287441E0  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AB52859BCA3  Unknown               Unknown  Unknown
+libmpi.so.12       00002AB5285A2006  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00002AB528153FF1  mpi_allreduce_        Unknown  Unknown
+vasp_ncl           000000000041BFDF  Unknown               Unknown  Unknown
+vasp_ncl           000000000057150D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000619E6D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33C4F  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCE53C9  syscall               Unknown  Unknown
+libmpi.so.12.0     00002AF1BE45ABC3  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AF1BE459BF0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AF1BE22513D  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AF1BE5D3302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AF1BE3800B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AF1BE1F12D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002AF1BDD9BB21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+vasp_ncl           000000000138EFF1  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385F72  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33AF0  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DF66D2  Unknown               Unknown  Unknown
+vasp_ncl           000000000140C62D  Unknown               Unknown  Unknown
+vasp_ncl           00000000013E7DED  Unknown               Unknown  Unknown
+vasp_ncl           000000000040E49E  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BC1ED1D  __libc_start_main     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F465  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A339D9  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DF66D2  Unknown               Unknown  Unknown
+vasp_ncl           000000000140C62D  Unknown               Unknown  Unknown
+vasp_ncl           00000000013E7DED  Unknown               Unknown  Unknown
+vasp_ncl           000000000040E49E  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BC1ED1D  __libc_start_main     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCE53C9  syscall               Unknown  Unknown
+libmpi.so.12.0     00002BA8C5983BC3  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002BA8C5982BF0  Unknown               Unknown  Unknown
+libmpi.so.12       00002BA8C574E13D  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002BA8C5AFC302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002BA8C58A90B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002BA8C571A2D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002BA8C52C4B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+vasp_ncl           000000000138EFFC  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385F72  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33AF0  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DF66D2  Unknown               Unknown  Unknown
+vasp_ncl           000000000140C62D  Unknown               Unknown  Unknown
+vasp_ncl           00000000013E7DED  Unknown               Unknown  Unknown
+vasp_ncl           000000000040E49E  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BC1ED1D  __libc_start_main     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002AE481BF7911  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AE481FA6302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AE481D530B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AE481BC42D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002AE48176EB21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A339D9  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002B50C8030911  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B50C83DF302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B50C818C0B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002B50C7FFD2D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002B50C7BA7B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138EF1F  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385F72  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002BA0C8CE3886  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002BA0C8E49053  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002BA0C8CA25AE  Unknown               Unknown  Unknown
+libmpi.so.12       00002BA0C8CA8006  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00002BA0C8859FF1  mpi_allreduce_        Unknown  Unknown
+vasp_ncl           000000000041BFDF  Unknown               Unknown  Unknown
+vasp_ncl           000000000057150D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000619E6D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33C4F  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+vasp_ncl           000000000138EFF6  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385F72  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33AF0  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DF66D2  Unknown               Unknown  Unknown
+vasp_ncl           000000000140C62D  Unknown               Unknown  Unknown
+vasp_ncl           00000000013E7DED  Unknown               Unknown  Unknown
+vasp_ncl           000000000040E49E  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BC1ED1D  __libc_start_main     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F44E  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A339D9  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DF66D2  Unknown               Unknown  Unknown
+vasp_ncl           000000000140C62D  Unknown               Unknown  Unknown
+vasp_ncl           00000000013E7DED  Unknown               Unknown  Unknown
+vasp_ncl           000000000040E49E  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BC1ED1D  __libc_start_main     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002B3AC29AD907  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B3AC2D5C302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B3AC2B090B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002B3AC297A2D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002B3AC2524B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A339D9  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002B11694256DC  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B116958B053  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B11693E45AE  Unknown               Unknown  Unknown
+libmpi.so.12       00002B11693EA006  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00002B1168F9BFF1  mpi_allreduce_        Unknown  Unknown
+vasp_ncl           000000000041BFDF  Unknown               Unknown  Unknown
+vasp_ncl           000000000057150D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000619E6D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33C4F  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCE53C9  syscall               Unknown  Unknown
+libmpi.so.12.0     00002B55E66B7BC3  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B55E66B6BF0  Unknown               Unknown  Unknown
+libmpi.so.12       00002B55E648213D  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B55E6830302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B55E65DD0B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002B55E644E2D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002B55E5FF8B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002AD7F165791E  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AD7F1A06302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AD7F17B30B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AD7F16242D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002AD7F11CEB21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A339D9  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+vasp_ncl           000000000138EFE0  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385F72  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33AF0  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DF66D2  Unknown               Unknown  Unknown
+vasp_ncl           000000000140C62D  Unknown               Unknown  Unknown
+vasp_ncl           00000000013E7DED  Unknown               Unknown  Unknown
+vasp_ncl           000000000040E49E  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BC1ED1D  __libc_start_main     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCCF527  __sched_yield         Unknown  Unknown
+libmpi.so.12       00002B06C77CCCA3  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B06C7932053  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B06C778B5AE  Unknown               Unknown  Unknown
+libmpi.so.12       00002B06C7791006  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00002B06C7342FF1  mpi_allreduce_        Unknown  Unknown
+vasp_ncl           000000000041BFDF  Unknown               Unknown  Unknown
+vasp_ncl           000000000057150D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000619E6D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33C4F  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002B7F6C69A8DF  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002B7F6CA49302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002B7F6C7F60B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002B7F6C6672D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002B7F6C211B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A339D9  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002AD144260911  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AD14460F302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AD1443BC0B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AD14422D2D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002AD143DD7B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+vasp_ncl           0000000001386C5A  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A339D9  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libmpi.so.12       00002AFEEC6E89AB  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AFEEC84F1E0  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AFEEC6A7C78  Unknown               Unknown  Unknown
+libmpi.so.12       00002AFEEC6AD006  PMPI_Allreduce        Unknown  Unknown
+libmpifort.so.12.  00002AFEEC25EFF1  mpi_allreduce_        Unknown  Unknown
+vasp_ncl           000000000041BFDF  Unknown               Unknown  Unknown
+vasp_ncl           000000000057150D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000619E6D  Unknown               Unknown  Unknown
+vasp_ncl           0000000000A33C4F  Unknown               Unknown  Unknown
+vasp_ncl           0000000000DBF84B  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCE53C9  syscall               Unknown  Unknown
+libmpi.so.12.0     00002AB69F57FBC3  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AB69F57EBF0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AB69F34A13D  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AB69F6F8302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AB69F4A50B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AB69F3162D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002AB69EEC0B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_ncl           000000000168E64E  Unknown               Unknown  Unknown
+libpthread-2.12.s  000000314C00F710  Unknown               Unknown  Unknown
+libc-2.12.so       000000314BCE53C9  syscall               Unknown  Unknown
+libmpi.so.12.0     00002AC11A793BC3  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AC11A792BF0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AC11A55E13D  PMPIDI_CH3I_Progr     Unknown  Unknown
+libmpi.so.12.0     00002AC11A90C302  Unknown               Unknown  Unknown
+libmpi.so.12.0     00002AC11A6B90B0  Unknown               Unknown  Unknown
+libmpi.so.12       00002AC11A52A2D7  PMPI_Alltoallv        Unknown  Unknown
+libmpifort.so.12.  00002AC11A0D4B21  pmpi_alltoallv_       Unknown  Unknown
+vasp_ncl           0000000000418AFE  Unknown               Unknown  Unknown
+vasp_ncl           000000000138F61C  Unknown               Unknown  Unknown
+vasp_ncl           0000000001385EC7  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
