@@ -1,0 +1,2 @@
+/etc/profile: line 74: ulimit: max locked memory: cannot modify limit: Operation not permitted
+/etc/profile: line 79: ulimit: pending signals: cannot modify limit: Operation not permitted
